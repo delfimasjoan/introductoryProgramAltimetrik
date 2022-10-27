@@ -50,4 +50,4 @@ Rebasing and merging are both designed to integrate changes from one branch into
 
 *Thse Study material was found from: [Atlassian](https://www.atlassian.com/git/tutorials/merging-vs-rebasing ), [Matt-rickard]( https://matt-rickard.com/squash-merge-or-rebase ) and [git-tower]( https://www.git-tower.com/learn/git/faq/git-squash)*
 
-<sub>The hole information that I found usefull and helpfull can be found [here](https://docs.google.com/document/d/1JkghbRDEKanaiZg2oTLlZaMN-Hyxu2ABhPuH6EOnFEg/edit?usp=sharing)</sub>
+<sub>All the information that I found usefull and helpfull can be found [here](https://docs.google.com/document/d/1JkghbRDEKanaiZg2oTLlZaMN-Hyxu2ABhPuH6EOnFEg/edit?usp=sharing)</sub>
